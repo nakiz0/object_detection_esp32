@@ -47,19 +47,19 @@ The objective of this project is to demonstrate how machine learning can be depl
 
 ---
 
-## 💻 Web Dashboard
+## 📹 Live Camera Feed  & 💻 Web Dashboard
 
-![Dashboard](images/web-start.png)
+![Live Detection](images/detection-output-amrit.png)
 
-**Figure 4:** Web dashboard used to start the object detection process.
+**Figure 4:** Live camera feed displayed while object detection is active.
 
 ---
 
-## 📹 Live Camera Feed
+## 📺 OLED Detection Output
 
-![Live Detection](images/web-running.png)
+![Detection Output](images/web-running-amrit.jpg)
 
-**Figure 5:** Live camera feed displayed while object detection is active.
+**Figure 5:** OLED display showing the detected object label and confidence score.
 
 ---
 
@@ -73,11 +73,28 @@ The objective of this project is to demonstrate how machine learning can be depl
 
 ## 📺 OLED Detection Output
 
-![Detection Output](images/detection-output.jpg)
+![Detection Output](images/detection-output-watch.jpg)
 
 **Figure 7:** OLED display showing the detected object label and confidence score.
 
 ---
+
+## ⌚ Detection Input Example
+
+![Peace Detection](images/detection-peace.jpg)
+
+**Figure 8:** Sample object presented to the ESP32-CAM for detection.
+
+---
+
+## 📺 OLED Detection Output
+
+![Detection Output](images/detection-output-peace.jpg)
+
+**Figure 9:** OLED display showing the detected object label and confidence score.
+
+---
+
 
 ## ⚙ System Workflow
 
