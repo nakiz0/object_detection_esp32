@@ -81,7 +81,7 @@ The objective of this project is to demonstrate how machine learning can be depl
 
 ## ⌚ Detection Input Example
 
-![Peace Detection](images/detection-peace.jpg)
+![Peace Detection](images/detection-peace.png)
 
 **Figure 8:** Sample object presented to the ESP32-CAM for detection.
 
